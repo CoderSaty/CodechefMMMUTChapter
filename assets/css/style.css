@@ -674,6 +674,9 @@ header
   .header-area .main-nav .nav li.submenu:focus ul {
     height: 0px;
   }
+  .main-nav .logo{
+    display:none;
+  }
 }
 
 @media (min-width: 992px) {
