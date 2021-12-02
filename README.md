@@ -1,5 +1,5 @@
 <h1 align="center" id="top">Welcome to Codechef MMMUT Chapter👋</h1>
-<p align="center"><img src="demo.gif"></p>
+<p align="center"><img src="assets/images/demo.gif"></p>
 
 ![](https://img.shields.io/badge/CSS-3-blue)
 ![](https://img.shields.io/badge/HTML-5-blue)
